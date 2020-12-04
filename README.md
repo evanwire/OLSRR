@@ -6,6 +6,7 @@ the ability to perform linear regression, compare different models, and gain ins
 
 ## Installation
 ``$ git clone https://github.com/evanwire/OLSRR.git``
+
 *I will upload this library to PyPip once I thoroughly test it.*
 
 ## Documentation
